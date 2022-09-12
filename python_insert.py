@@ -39,5 +39,3 @@ print("done")
 
 # Closing the connection
 conn.close()
-
-
