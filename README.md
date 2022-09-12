@@ -1,1 +1,1 @@
-insert sql to postgreSQL DB
+insert sql to postgreSQL DB and write small log
