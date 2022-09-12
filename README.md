@@ -1,1 +1,1 @@
-# Скрипт для инсерта в базу postgress, логирует инсерт.
+insert sql to postgreSQL DB
